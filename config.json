@@ -1,7 +1,0 @@
-{
-	"auths": {
-		"roi.dockerregistry.local:5000": {
-			"auth": "cGFhczpwYWFzMTIz"
-		}
-	}
-}
